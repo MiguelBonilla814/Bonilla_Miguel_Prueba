@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Bonilla_Miguel_Prueba</string>
+    <string name="text_titulo_nombres">Nombre: </string>
+    <string name="text_titulo_apellidos">Apellido: </string>
+    <string name="text_titulo_base">Base: </string>
+    <string name="text_titulo_exponente">Exponente: </string>
+    <string name="text_titulo_factorial">Factorial: </string>
+    <string name="text_titulo_potencia">Potencia: </string>
+    <string name="button_siguiente">Siguiente</string>
+    <string name="button_resultados">Mostrar Resultados</string>
+    <string name="button_cerrar">Cerrar</string>
+    <string name="titulo_numero">Número (Factorial)</string>
+    <string name="vacio"> </string>
 </resources>
