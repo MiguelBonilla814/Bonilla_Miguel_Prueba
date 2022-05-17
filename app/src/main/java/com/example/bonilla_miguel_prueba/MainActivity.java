@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
         text_view_factorial.setText(String.valueOf(Factorial(Integer.parseInt(numero))));
         text_view_potencia.setText(String.valueOf(Potencia(Integer.parseInt(base), Integer.parseInt(exponente))));
     }
-
+//Final
     public int Factorial (double numero) {
         if (numero==0)
             return 1;
