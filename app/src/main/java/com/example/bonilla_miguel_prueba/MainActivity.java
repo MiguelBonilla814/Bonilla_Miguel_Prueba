@@ -47,6 +47,8 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(intent, REQUEST_ACTIVITY_2);
     }
 
+    //Listo
+
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data){
         super.onActivityResult(requestCode, resultCode, data);
